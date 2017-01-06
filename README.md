@@ -4,7 +4,7 @@ rails-vagrant
 Vagrant configuration file to spin up VM with
 
 * Ubuntu Server 14.04 (Trusty Tahr)
-* Ruby 2.1.5 (installed via [RVM](https://rvm.io))
+* Ruby 2.2.2 (installed via [RVM](https://rvm.io))
 * Rails 4.2
 * PostgreSQL 9.4
 
